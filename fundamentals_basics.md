@@ -174,5 +174,3 @@ Your todos:
 2. [□] Practice with interfaces
 3. [□] Build a small project
 ```
-
-Would you like to explore any of these topics in more depth, or are there other TypeScript features you're curious about?
